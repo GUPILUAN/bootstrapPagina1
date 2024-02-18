@@ -1,1 +1,1 @@
-![Alt text](<screenShot.png>)
+![Alt text](<./img/screenshot.png>)
